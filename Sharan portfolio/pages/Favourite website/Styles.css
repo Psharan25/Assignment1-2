@@ -1,0 +1,19 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: darkslateblue;
+}
+
+h2.blue {
+    color:blue;
+}
+
+h2.red {
+    color: red;
+}
+
+h2.orange {
+    color: orange;
+}
